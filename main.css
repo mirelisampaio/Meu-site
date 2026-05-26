@@ -1,0 +1,123 @@
+.hobbies-imagem{
+    width: 200px;
+    left: 200px;
+
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: darkslategray;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.tecnologias-imagem{
+     width: 200px;
+    left: 200px;
+    border-radius: 50%;
+    border: 4px solid var(--vidro);
+
+
+}
+
+.hobbies-imagem {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    justify-content: center;
+    align-items: center;
+display: flex;
+gap: 40px; 
+ }
+
+.info-hobbies {
+    color: darkslategrey;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+
+
+
+.navegacao{
+background-color: violet;
+display: flex;
+justify-content: center;
+gap: 30px;
+list-style: none;
+}
+
+ul{
+display: flex;
+list-style: none;
+gap: 30px;
+justify-content: center;
+
+}
+
+.cabecalho{
+    background-color: plum;
+    font-family: Herald;
+    font-size: 2.5rem;
+    margin-bottom: 3rem;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   min-height: 80vh;
+   
+}
+
+.foto-mireli {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  object-fit: cover;
+  justify-content: center;
+  
+}
+
+.hobbies-titulo {
+    color: darkslategrey;
+    text-align: center;
+    font-size: 2.5rem;
+
+}
+
+.hobbies-card {
+    display: flex;
+    gap: 650px;
+
+}
+
+.hobbies-imagem{
+    width: 200px;
+    height: 200px;
+    min-height: 10vh;
+    
+
+}
+
+.hobbies-card {
+     min-height: 30vh;
+     background-color: plum;
+}
+
+.hobbies {
+    background-color: plum;
+}
+.tecnologias{
+    text-align: center;
+    align-items: center;
+    background-color: plum;
+}
+
+.cnt{
+    background-color: violet;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+
+
